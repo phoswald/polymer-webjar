@@ -1,0 +1,11 @@
+{
+  "name": "polymer-webjar",
+  "authors": [
+    "Philip Oswald <philip.oswald@gmail.com>"
+  ],
+  "description": "Polymer WebJar",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": ""
+}
